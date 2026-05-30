@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_primary">#00D4FF</color>
+    <color name="accent_secondary">#7B2FBE</color>
+    <color name="bg_card">#16213E</color>
+    <color name="bg_primary">#0D0D0D</color>
+    <color name="bg_secondary">#1A1A2E</color>
+    <color name="bg_surface">#0F3460</color>
+    <color name="divider">#1E3A5F</color>
+    <color name="green_accent">#00FF88</color>
+    <color name="orange_accent">#FF8C00</color>
+    <color name="red_accent">#FF3B3B</color>
+    <color name="ripple">#1A00D4FF</color>
+    <color name="text_accent">#00D4FF</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#8899AA</color>
+    <dimen name="card_padding">20dp</dimen>
+    <dimen name="card_radius">16dp</dimen>
+    <dimen name="spacing_large">24dp</dimen>
+    <dimen name="spacing_medium">16dp</dimen>
+    <dimen name="spacing_small">8dp</dimen>
+    <string name="app_name">NetScanner</string>
+    <string name="no_devices">Устройства не найдены</string>
+    <string name="no_ports">Открытых портов не найдено</string>
+    <string name="port_scan">Сканер портов</string>
+    <string name="quick_scan">Быстрое сканирование</string>
+    <string name="root_required">Требуется root для полного функционала</string>
+    <string name="scan_network">Сканировать сеть</string>
+    <string name="scanning">Сканирование…</string>
+    <style name="Theme.NetScanner" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/accent_primary</item>
+        <item name="colorPrimaryVariant">@color/bg_surface</item>
+        <item name="colorOnPrimary">@color/bg_primary</item>
+        <item name="colorSecondary">@color/accent_secondary</item>
+        <item name="android:windowBackground">@color/bg_primary</item>
+        <item name="android:statusBarColor">@color/bg_secondary</item>
+        <item name="android:navigationBarColor">@color/bg_primary</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+        <item name="materialButtonStyle">@style/Widget.NetScanner.Button</item>
+    </style>
+    <style name="Theme.NetScanner.Splash" parent="Theme.NetScanner">
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="Widget.NetScanner.Button" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/accent_primary</item>
+        <item name="android:textColor">@color/bg_primary</item>
+        <item name="cornerRadius">12dp</item>
+        <item name="android:letterSpacing">0.05</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Widget.NetScanner.Button.Outlined" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="strokeColor">@color/accent_primary</item>
+        <item name="android:textColor">@color/accent_primary</item>
+        <item name="cornerRadius">12dp</item>
+    </style>
+    <style name="Widget.NetScanner.Toolbar" parent="Widget.MaterialComponents.Toolbar">
+        <item name="android:background">@color/bg_secondary</item>
+        <item name="titleTextColor">@color/text_primary</item>
+        <item name="navigationIconTint">@color/accent_primary</item>
+    </style>
+</resources>

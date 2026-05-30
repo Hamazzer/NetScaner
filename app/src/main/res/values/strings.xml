@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NetScanner</string>
+    <string name="scan_network">Сканировать сеть</string>
+    <string name="port_scan">Сканер портов</string>
+    <string name="quick_scan">Быстрое сканирование</string>
+    <string name="scanning">Сканирование…</string>
+    <string name="no_devices">Устройства не найдены</string>
+    <string name="no_ports">Открытых портов не найдено</string>
+    <string name="root_required">Требуется root для полного функционала</string>
+</resources>

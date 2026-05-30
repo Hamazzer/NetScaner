@@ -1,0 +1,270 @@
+{
+  "1": {
+    "name": "TCPMUX",
+    "desc": "'TCP Port Service Multiplexer [rfc-1078]"
+  },
+  "7": {
+    "name": "ECHO",
+    "desc": "Echo Service"
+  },
+  "9": {
+    "name": "DISCARD",
+    "desc": "sink null"
+  },
+  "11": {
+    "name": "SYSTAT",
+    "desc": "Active Users"
+  },
+  "13": {
+    "name": "DAYTIME",
+    "desc": "netstat"
+  },
+  "17": {
+    "name": "QOTD",
+    "desc": "Quote of the Day."
+  },
+  "19": {
+    "name": "CHARGEN",
+    "desc": "ttytst source Character Generator"
+  },
+  "20": {
+    "name": "FTP-DATA",
+    "desc": "File Transfer [Default Data]"
+  },
+  "21": {
+    "name": "FTP",
+    "desc": "File Transfer Protocol"
+  },
+  "22": {
+    "name": "SSH",
+    "desc": "SSH Secure Shell"
+  },
+  "23": {
+    "name": "TELNET",
+    "desc": "Telnet"
+  },
+  "25": {
+    "name": "SMTP",
+    "desc": "Simple Mail Transfer"
+  },
+  "37": {
+    "name": "TIME",
+    "desc": "timserver"
+  },
+  "43": {
+    "name": "WHOIS",
+    "desc": "nicname"
+  },
+  "53": {
+    "name": "DOMAIN",
+    "desc": "Domain Name Server"
+  },
+  "67": {
+    "name": "DHCPS",
+    "desc": "DHCP/Bootstrap Protocol Server"
+  },
+  "68": {
+    "name": "DHCPC",
+    "desc": "DHCP/Bootstrap Protocol Client"
+  },
+  "69": {
+    "name": "TFTP",
+    "desc": "Trivial File Transfer"
+  },
+  "70": {
+    "name": "GOPHER",
+    "desc": "Gopher Service"
+  },
+  "80": {
+    "name": "HTTP",
+    "desc": "http"
+  },
+  "88": {
+    "name": "KERBEROS",
+    "desc": "kdc Kerberos v4,"
+  },
+  "110": {
+    "name": "POP3",
+    "desc": "pop3"
+  },
+  "111": {
+    "name": "RPCBIND",
+    "desc": "portmapper, rpcbind-"
+  },
+  "119": {
+    "name": "NNTP",
+    "desc": "Network News Transfer Protocol"
+  },
+  "123": {
+    "name": "NTP",
+    "desc": "Network Time Protocol"
+  },
+  "135": {
+    "name": "MSRPC",
+    "desc": "Microsoft RPC services"
+  },
+  "137": {
+    "name": "NETBIOS-NS",
+    "desc": "NETBIOS Name Service"
+  },
+  "138": {
+    "name": "NETBIOS-DGM",
+    "desc": "NETBIOS Datagram Service"
+  },
+  "139": {
+    "name": "NETBIOS-SSN",
+    "desc": "NETBIOS Session Service"
+  },
+  "143": {
+    "name": "IMAP",
+    "desc": "Interim Mail Access Protocol v"
+  },
+  "161": {
+    "name": "SNMP",
+    "desc": "snmptrap"
+  },
+  "162": {
+    "name": "SNMPTRAP",
+    "desc": "snmptrap"
+  },
+  "179": {
+    "name": "BGP",
+    "desc": "Border Gateway Protocol"
+  },
+  "194": {
+    "name": "IRC",
+    "desc": "Internet Relay Chat"
+  },
+  "389": {
+    "name": "LDAP",
+    "desc": "Lightweight Directory Access Protocol."
+  },
+  "443": {
+    "name": "HTTPS",
+    "desc": "Secure World Wide Web HTTP SSL"
+  },
+  "445": {
+    "name": "MICROSOFT-DS",
+    "desc": "SMB directly over IP"
+  },
+  "465": {
+    "name": "SMTPS",
+    "desc": "smtp protocol over TLS/SSL was ssmtp"
+  },
+  "500": {
+    "name": "ISAKMP",
+    "desc": "stmf"
+  },
+  "514": {
+    "name": "SYSLOG",
+    "desc": "syslog"
+  },
+  "515": {
+    "name": "PRINTER",
+    "desc": "spooler lpd"
+  },
+  "520": {
+    "name": "ROUTER",
+    "desc": "router"
+  },
+  "587": {
+    "name": "SUBMISSION",
+    "desc": "http-alt"
+  },
+  "631": {
+    "name": "IPP",
+    "desc": "8Internet Printing Protocol Common UNIX Printing System"
+  },
+  "636": {
+    "name": "LDAPS",
+    "desc": "ldaps"
+  },
+  "993": {
+    "name": "IMAPS",
+    "desc": "imap4 protocol over TLS/SSL"
+  },
+  "995": {
+    "name": "POP3S",
+    "desc": "POP3 protocol over TLS/SSL"
+  },
+  "1080": {
+    "name": "SOCKS",
+    "desc": "ansoft-lm-"
+  },
+  "1194": {
+    "name": "OPENVPN",
+    "desc": "openvpn"
+  },
+  "1433": {
+    "name": "MS-SQL-S",
+    "desc": "Microsoft-SQL-Server"
+  },
+  "1723": {
+    "name": "PPTP",
+    "desc": "\"Point-to-point tunnelling protocol"
+  },
+  "1900": {
+    "name": "UPNP",
+    "desc": "Universal PnP"
+  },
+  "2049": {
+    "name": "NFS",
+    "desc": "networked file system"
+  },
+  "3306": {
+    "name": "MYSQL",
+    "desc": "mySQL"
+  },
+  "3389": {
+    "name": "MS-WBT-SERVER",
+    "desc": "ms-wbt-server"
+  },
+  "3478": {
+    "name": "STUN",
+    "desc": "stun"
+  },
+  "5432": {
+    "name": "POSTGRESQL",
+    "desc": "PostgreSQL database server-"
+  },
+  "5900": {
+    "name": "VNC",
+    "desc": "\"Virtual Network Computer display 0."
+  },
+  "5984": {
+    "name": "COUCHDB",
+    "desc": "couchdb"
+  },
+  "6379": {
+    "name": "REDIS",
+    "desc": "redis"
+  },
+  "6881": {
+    "name": "BITTORRENT",
+    "desc": "bittorrent"
+  },
+  "8080": {
+    "name": "HTTP-ALT",
+    "desc": "A common alternative http port"
+  },
+  "8443": {
+    "name": "HTTPS-ALT",
+    "desc": "Secure World Wide Web HTTP SSL"
+  },
+  "8888": {
+    "name": "SUN-ANSWERBOOK",
+    "desc": ">Sun Answerbook HTTP server.  Or gnump3d streaming music server:"
+  },
+  "9090": {
+    "name": "WEBSM",
+    "desc": "websm"
+  },
+  "9200": {
+    "name": "WAP-WSP",
+    "desc": "wap-wsp"
+  },
+  "27017": {
+    "name": "MONGOD",
+    "desc": "mongod"
+  }
+}

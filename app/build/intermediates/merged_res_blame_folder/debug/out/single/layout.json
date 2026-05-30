@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.netscanner.app-mergeDebugResources-34:/layout/activity_port_scan.xml",
+        "source": "com.netscanner.app-main-37:/layout/activity_port_scan.xml"
+    },
+    {
+        "merged": "com.netscanner.app-mergeDebugResources-34:/layout/activity_device_detail.xml",
+        "source": "com.netscanner.app-main-37:/layout/activity_device_detail.xml"
+    },
+    {
+        "merged": "com.netscanner.app-mergeDebugResources-34:/layout/item_port.xml",
+        "source": "com.netscanner.app-main-37:/layout/item_port.xml"
+    },
+    {
+        "merged": "com.netscanner.app-mergeDebugResources-34:/layout/activity_splash.xml",
+        "source": "com.netscanner.app-main-37:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.netscanner.app-mergeDebugResources-34:/layout/activity_main.xml",
+        "source": "com.netscanner.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.netscanner.app-mergeDebugResources-34:/layout/activity_scan.xml",
+        "source": "com.netscanner.app-main-37:/layout/activity_scan.xml"
+    },
+    {
+        "merged": "com.netscanner.app-mergeDebugResources-34:/layout/item_device.xml",
+        "source": "com.netscanner.app-main-37:/layout/item_device.xml"
+    },
+    {
+        "merged": "com.netscanner.app-mergeDebugResources-34:/layout/row_info.xml",
+        "source": "com.netscanner.app-main-37:/layout/row_info.xml"
+    }
+]

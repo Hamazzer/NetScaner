@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "com.netscanner.app-merged_res-35:/layout_activity_port_scan.xml.flat",
+        "source": "com.netscanner.app-main-37:/layout/activity_port_scan.xml"
+    },
+    {
+        "merged": "com.netscanner.app-merged_res-35:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.netscanner.app-main-37:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.netscanner.app-merged_res-35:/drawable_bg_port_number.xml.flat",
+        "source": "com.netscanner.app-main-37:/drawable/bg_port_number.xml"
+    },
+    {
+        "merged": "com.netscanner.app-merged_res-35:/layout_activity_splash.xml.flat",
+        "source": "com.netscanner.app-main-37:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.netscanner.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.netscanner.app-main-37:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.netscanner.app-merged_res-35:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.netscanner.app-main-37:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.netscanner.app-merged_res-35:/layout_row_info.xml.flat",
+        "source": "com.netscanner.app-main-37:/layout/row_info.xml"
+    },
+    {
+        "merged": "com.netscanner.app-merged_res-35:/layout_item_port.xml.flat",
+        "source": "com.netscanner.app-main-37:/layout/item_port.xml"
+    },
+    {
+        "merged": "com.netscanner.app-merged_res-35:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.netscanner.app-main-37:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.netscanner.app-merged_res-35:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.netscanner.app-main-37:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.netscanner.app-merged_res-35:/drawable_bg_state_open.xml.flat",
+        "source": "com.netscanner.app-main-37:/drawable/bg_state_open.xml"
+    },
+    {
+        "merged": "com.netscanner.app-merged_res-35:/layout_activity_device_detail.xml.flat",
+        "source": "com.netscanner.app-main-37:/layout/activity_device_detail.xml"
+    },
+    {
+        "merged": "com.netscanner.app-merged_res-35:/layout_activity_scan.xml.flat",
+        "source": "com.netscanner.app-main-37:/layout/activity_scan.xml"
+    },
+    {
+        "merged": "com.netscanner.app-merged_res-35:/drawable_bg_badge.xml.flat",
+        "source": "com.netscanner.app-main-37:/drawable/bg_badge.xml"
+    },
+    {
+        "merged": "com.netscanner.app-merged_res-35:/font_inter_italic.ttf.flat",
+        "source": "com.netscanner.app-main-37:/font/inter_italic.ttf"
+    },
+    {
+        "merged": "com.netscanner.app-merged_res-35:/drawable_bg_badge_small.xml.flat",
+        "source": "com.netscanner.app-main-37:/drawable/bg_badge_small.xml"
+    },
+    {
+        "merged": "com.netscanner.app-merged_res-35:/layout_activity_main.xml.flat",
+        "source": "com.netscanner.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.netscanner.app-merged_res-35:/anim_pulse.xml.flat",
+        "source": "com.netscanner.app-main-37:/anim/pulse.xml"
+    },
+    {
+        "merged": "com.netscanner.app-merged_res-35:/font_inter.ttf.flat",
+        "source": "com.netscanner.app-main-37:/font/inter.ttf"
+    },
+    {
+        "merged": "com.netscanner.app-merged_res-35:/anim_fade_out.xml.flat",
+        "source": "com.netscanner.app-main-37:/anim/fade_out.xml"
+    },
+    {
+        "merged": "com.netscanner.app-merged_res-35:/layout_item_device.xml.flat",
+        "source": "com.netscanner.app-main-37:/layout/item_device.xml"
+    },
+    {
+        "merged": "com.netscanner.app-merged_res-35:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.netscanner.app-main-37:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.netscanner.app-merged_res-35:/drawable_ic_back.xml.flat",
+        "source": "com.netscanner.app-main-37:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.netscanner.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.netscanner.app-main-37:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.netscanner.app-merged_res-35:/anim_fade_in.xml.flat",
+        "source": "com.netscanner.app-main-37:/anim/fade_in.xml"
+    }
+]
