@@ -45,8 +45,8 @@ object NmapRunner {
     }
 
     private fun nmapDiscover(subnet: String, onProgress: (ScanProgress) -> Unit): List<Device> {
-        onProgress(ScanProgress(0, 1, "Запуск nmap...", 0))
-        val output = RootUtils.runAsRoot("nmap -sn --open -T4 $subnet.0/24 2>&1")
+        onProgress(ScanProgress(0, 1, "Быстрое сканирование (nmap -n -T5 -sn)...", 0))
+        val output = RootUtils.runAsRoot("nmap -n -T5 -sn $subnet.0/24 2>&1")
         return parseNmapHostDiscovery(output)
     }
 
